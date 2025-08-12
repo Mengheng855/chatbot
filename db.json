@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "role": "Developer",
+            "email": "john.doe@example.com",
+            "phone_number": "+1234567890",
+            "img": "https://i.pinimg.com/736x/9d/92/91/9d92918c12bb2898c16e94fdf42eab64.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Sokha Chan",
+            "role": "Designer",
+            "email": "sokha.chan@example.com",
+            "phone_number": "+8551234567",
+            "img": "https://scontent.fpnh9-2.fna.fbcdn.net/v/t39.30808-6/504155520_1243076320537380_4888604827812334413_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEsRXFgO5LtrZdBYM-YvmzEHfyO4Vw7YAsd_I7hXDtgC4GQgyX5QcEUxTbXIWvCrpz58HhO26m0vaNhvXieiBCT&_nc_ohc=d4j24nLo1TwQ7kNvwF3vtvC&_nc_oc=AdnMlHjLN3P6724SezCkfKtyUfAiH5x76xbdMpg39gcseW0wLJlVd67CYpthMwjYHpQ&_nc_zt=23&_nc_ht=scontent.fpnh9-2.fna&_nc_gid=R3hznRwH55BxGS9ugUJxng&oh=00_AfVdPT2nBhwwq5HhnBLmwsx_d5hAeeL2D4HbpuUoEOlQ_Q&oe=68A14B03"
+        },
+        {
+            "id": 3,
+            "name": "Maria Lopez",
+            "role": "Database analyst",
+            "email": "maria.lopez@example.com",
+            "phone_number": "+8551234567",
+            "img": "https://scontent.fpnh9-2.fna.fbcdn.net/v/t39.30808-6/481202863_1358731741930085_4449877181968773565_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEurtljB0NwF0xzdvZAA9Rpnrnfjj0rADWeud-OPSsANeyA8hI6RdBStUqrVy1Iew2AU5bj7lXCXS4LCSYKozIg&_nc_ohc=KqoCl5ThagQQ7kNvwH2pvrU&_nc_oc=AdmHKo6f9-cVTcYBr94HM-x9KCdgXgyUzK5Wp4wQcn4PtH006qsmgC4UdJCIZ2PvKAo&_nc_zt=23&_nc_ht=scontent.fpnh9-2.fna&_nc_gid=qxyvdMy7XGT6eRA3m5n1DQ&oh=00_AfVnalcsB60JvTSZmLvyu1ALWz_CeEWEltcSNV1wKrAAyA&oe=68A123D5"
+        }
+    ]
+}
